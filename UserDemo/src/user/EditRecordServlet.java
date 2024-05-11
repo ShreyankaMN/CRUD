@@ -40,7 +40,7 @@ public class EditRecordServlet extends HttpServlet {
             e.printStackTrace();
         }
         //generate the connection
-        try(Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/sys", "root","tiger");
+        try(Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/reg", "root","tiger");
                 PreparedStatement ps = con.prepareStatement(query);){
             //set the values
             ps.setString(1, name);
