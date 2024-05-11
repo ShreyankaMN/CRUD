@@ -1,11 +1,13 @@
 # INIT8Labs_Assessment
 
 this project is built using java,jdbc,servlet as a backend and frontend using html,bootstrap,css.according to the requirements given .i have perform
-STEPS TO RUN THE PROJECT:
-1.SYSTEM REQUIREMENTS:
-                   1.eclipse enterprises edition
-                   2.apache tomcat server
-                   3.mysql server
+STEPS TO RUN THE PROJECT
+
+1.SYSTEM REQUIREMENTS
+  1.eclipse enterprises edition
+  2.apache tomcat server
+  3.mysql server
+  
 2.STEPS TO IMPORT PROJECT INTO ECLIPS
                    1.import into INIT8Labs As directory into the eclipse workspace
                    2.traverse from UserDemo/src/user(here all the servlet pages are avilable)
