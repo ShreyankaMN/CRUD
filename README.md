@@ -1,4 +1,4 @@
-# CRUD
+this project is built using java,jdbc,servlet as a backend and frontend using html,bootstrap,css.according to the requirements given .i have perform
 STEPS TO RUN THE PROJECT:
 1.SYSTEM REQUIREMENTS:
                    1.eclipse enterprises edition
@@ -14,4 +14,9 @@ STEPS TO RUN THE PROJECT:
 3.STEPS TO RUN THE PROJECT
                    1.right click on UserDemo project
                    2.click Run As and select Run on Server.
+                   3.on pop up window select servel and click finish.
+                   4.the project will run on the server.
+4.STEPS TO CREATE DATADASE
+                   1.open register.sql
+                   2.execute the queries in your mysql.
                    
